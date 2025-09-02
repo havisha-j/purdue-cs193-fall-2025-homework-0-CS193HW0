@@ -25,7 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-# Havisha Jaitley's First CS193 Home
+# Havisha Jaitley's First CS193 Homework 
+## 
+- It's collaborative
+- Taught by TA's
+- Online lectures
+- Teaches tools helpful for future CS courses 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
