@@ -11,12 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Havisha Jaitley's First C193 Homework
-##
-- It's collaborative
-- Online lectures sometimes
-- Taught by TA's
-- Useful for future CS courses 
+# Header 1
+## Header 2  
 ### Header 3
 
 - Bulleted
@@ -29,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Havisha Jaitley's First CS193 Homework
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
